@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarvshresth Sharma
-- 👀 I’m interested in web development and quant research 
-- 🌱 I’m currently learning C 
-- 💞️ I’m looking to collaborate on Research-analysis and web development
+- 👀 I’m interested in UAVs and Control systems for electronics 
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Research-analysis and UAV design 
 - 📫 How to reach me - Email(sarvshresthatwork@gmail.com) , or instagram(randomsarv04)
 
 <!---
